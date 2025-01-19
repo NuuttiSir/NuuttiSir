@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## Hi there 👋    
+🔭 I’m currently studying in University of Oulu     
+🌱 I’m currently learning C/C++, Java     
+🤔 I’m interested in Linux and Go
 <!--
 **NuuttiSir/NuuttiSir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
