@@ -1,6 +1,8 @@
 ## Hi there 👋    
 🔭 I’m currently studying in University of Oulu     
 🌱 I’m currently learning GO
+⚡ Fun fact: I once tried to learn speedrunning various games, I was not very fast.
+
 <!--
 **NuuttiSir/NuuttiSir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
